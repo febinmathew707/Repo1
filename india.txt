@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1EFB-86C0
+
+ Directory of C:\Users\FEBIN\Desktop\FEBINTEST
+
+12/17/2018  05:51 AM    <DIR>          .
+12/17/2018  05:51 AM    <DIR>          ..
+12/17/2018  05:46 AM               511 feb.txt
+12/17/2018  05:13 AM                 0 haihello.txt
+12/17/2018  05:51 AM                 0 india.txt
+12/17/2018  05:12 AM                18 test.txt
+12/17/2018  05:12 AM    <DIR>          testingfolder
+               4 File(s)            529 bytes
+               3 Dir(s)  123,508,224,000 bytes free
